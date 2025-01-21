@@ -28,7 +28,7 @@ En desarrollo activo.
 ## 👥 Autores
 
 1. Isidro Alexander Marroquin
-2. Colocar su nombre aquí
+2. Jeniffer Lisseth Saravia Escolero 
 3. Luis Alberto Del Cid Rivera
 
 ## 📄 Licencia
