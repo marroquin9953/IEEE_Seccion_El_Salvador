@@ -29,7 +29,7 @@ En desarrollo activo.
 
 1. Isidro Alexander Marroquin
 2. Colocar su nombre aquí
-3. Colocar su nombre aquí
+3. Luis Alberto Del Cid Rivera
 
 ## 📄 Licencia
 
